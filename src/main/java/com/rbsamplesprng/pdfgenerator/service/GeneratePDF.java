@@ -74,7 +74,7 @@ public class GeneratePDF {
 			so = writer.getCurrentDocumentSize();
 		}while( so <= sz);		
 
-		document.add(new Paragraph("owned by Rocky Rock", myfont));
+		document.add(new Paragraph("owned by Rakesh Bhat", myfont));
 		
 		document.close();
 	}
