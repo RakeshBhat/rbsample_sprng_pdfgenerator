@@ -11,7 +11,7 @@ Given the Size and Unit (KB/MB/GB), application generates simple PDF.
 ## Create PDF
 Given a file (doc/text) or web link, application creates a PDF version.
 
-# Resources\
+# Resources
 https://springboot-javafx-support.readthedocs.io/en/latest/#<br>
 https://wimdeblauwe.wordpress.com/2017/09/18/using-spring-boot-with-javafx/<br>
 https://github.com/roskenet/spring-javafx-examples<br>
