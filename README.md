@@ -1,14 +1,14 @@
 
-#Description
+# Description
 Another Simple yet good source-code to help use Spring Boot and JFX.
 This sample uses JFX to build interface for PDF utilities
 > Generate PDF   
 > Create PDF
 
-##Generate PDF
+## Generate PDF
 Given the Size and Unit (KB/MB/GB), application generates simple PDF.
 
-##Create PDF
+## Create PDF
 Given a file (doc/text) or web link, application creates a PDF version.
 
 #Resources
